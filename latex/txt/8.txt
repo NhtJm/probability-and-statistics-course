@@ -1,6 +1,0 @@
-> oneway.test(Release_Price ~ Manufacturer, data = aovRelease_Price)
-
-	One-way analysis of means (not assuming equal variances)
-
-data:  Release_Price and Manufacturer
-F = 43.219, num df = 3.00, denom df = 411.37, p-value < 2.2e-16

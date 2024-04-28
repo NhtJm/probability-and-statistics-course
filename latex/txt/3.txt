@@ -1,6 +1,0 @@
-Manufacturer      Boost_Clock       Core_Speed        Max_Power           Memory
-           0             1960              936              625              420
-Memory_Bus     Memory_Speed    Release_Price           Shader             TMUs
-        62              105             2850              107              538
-Memory_Bandwidth 
-             121
