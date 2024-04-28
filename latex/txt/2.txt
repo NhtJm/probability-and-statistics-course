@@ -1,0 +1,12 @@
+Manufacturer Boost_Clock Core_Speed Max_Power Memory Memory_Bandwidth Memory_Bus 
+1       Nvidia          NA        738       141   1024             64.0        256        
+2          AMD          NA         NA       215    512            106.0        512       
+3          AMD          NA         NA       200    512             51.2        256       
+4          AMD          NA         NA        NA    256             36.8        128     
+5          AMD          NA         NA        45    256             22.4        128    
+  Release_Price Shader TMUs Memory_Speed
+1            NA      4   64         1000
+2            NA      4   16          828
+3            NA      4   16          800
+4            NA      4    8         1150
+5            NA      4    8          700
