@@ -1,0 +1,5 @@
+> coef(mdl_price_vs_all)
+     (Intercept)      Boost_Clock       Core_Speed        Max_Power           Memory 
+      4.40184988       0.42684428      -0.26377554       0.09983657       0.13631975 
+Memory_Bandwidth       Memory_Bus     Memory_Speed           Shader             TMUs 
+      0.16804059       0.09096643      -0.32001565      -0.60688925       0.05911582
