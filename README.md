@@ -1,2 +1,2 @@
-# GR09-03
-HK232
+# MT2013
+This is my probability and statistics course's project at HCMUT during semester 232.
